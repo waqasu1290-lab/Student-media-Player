@@ -3,7 +3,7 @@ QUICK START GUIDE - STUDENT MEDIA PLAYER
 
 GETTING STARTED:
 ----------------
-1. Double-click "StudentMediaPlayer.py" to launch
+1. Double-click "StudentMediaPlayer.exe" to launch
 2. Click "Files" to add your music files
 3. Click any song to start playing
 4. Use the control buttons to manage playback
@@ -54,3 +54,4 @@ Enjoy your music! 🎵
 
 
 Developed by Waqas Abbasi Pvt
+this is her first version there so some bugs
